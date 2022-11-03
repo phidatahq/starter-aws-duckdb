@@ -13,6 +13,7 @@ dependencies = [
     "phidata>=0.3.0",
     "requests",
     "sqlalchemy",
+    "duckdb",
 ]
 
 [project.optional-dependencies]
