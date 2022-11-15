@@ -8,12 +8,11 @@ authors = [
 ]
 
 dependencies = [
-    "boto3",
+    "duckdb",
     "pandas",
-    "phidata>=0.3.9",
+    "phidata[aws]>=0.3.10",
     "requests",
     "sqlalchemy",
-    "duckdb",
 ]
 
 [project.optional-dependencies]
