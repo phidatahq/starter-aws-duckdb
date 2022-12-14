@@ -10,7 +10,7 @@ authors = [
 dependencies = [
     "duckdb",
     "pandas",
-    "phidata[aws]>=0.3.11",
+    "phidata>=0.4.1",
     "requests",
     "sqlalchemy",
 ]
